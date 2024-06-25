@@ -1,1 +1,1 @@
-# sbc-d6-act1
+# Day 6 Activity
